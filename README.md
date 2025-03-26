@@ -17,7 +17,7 @@ This project builds a **binary classification model** to predict the recurrence 
 
 
 ### 🔹 2.2 Feature engineering
-  - **Interaction terms**
+  - **Interaction terms** To test if the effects of a variable depends on other variables
   - **Ranking a feature by different metrics** One by size of tumour, the other by aggression of tumour
 
 ### 🔹 2.3 Selecting performance metric and a model
